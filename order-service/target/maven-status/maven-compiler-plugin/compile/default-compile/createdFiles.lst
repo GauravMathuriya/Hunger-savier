@@ -1,0 +1,5 @@
+com\hunger\saviour\portal\OrderServiceApplication.class
+com\hunger\saviour\portal\entities\OrderEntity$OrderEntityBuilder.class
+com\hunger\saviour\portal\repositories\OrderRepository.class
+com\hunger\saviour\portal\entities\OrderEntity.class
+com\hunger\saviour\portal\entities\OrderStatus.class
